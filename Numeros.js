@@ -16,4 +16,4 @@ var TotalFloat = parseFloat(totalStr);      // Transforma en Punto Flotante
 
 var pizza = 8;
 var persona = 2;
-var CantidadDePorcionesPorPersona = pizza / persona
+var CantidadDePorcionesPorPersona = pizza / persona;
